@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br>
 
-[![Nemo-Illusionist's github stats](https://github-readme-stats.vercel.app/api?username=Nemo-Illusionist&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
+[![Nemo-Illusionist github stats](https://github-readme-stats.vercel.app/api?username=Nemo-Illusionist&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
 [![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nemo-Illusionist&langs_count=8&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)]()
 
